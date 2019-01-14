@@ -1,0 +1,35 @@
+.banner3{
+    background-color: #272262;
+    color:white;
+    height:auto;
+    overflow: hidden;
+    font-family: "Playfair Display", Georgia, serif;
+    padding-bottom: 50px;
+
+}
+
+.banner3Button{
+    background-color: #f05833;
+    font-size: 20px;
+    padding: 10px 30px;
+    font-weight: bold;
+    border-radius: 15px;
+    text-decoration: none;
+
+
+}
+
+.banner3Button  a{
+    text-decoration: none;
+    color:white;
+    font-family: "Playfair Display", Georgia, serif;
+}
+
+.banner3Content {
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.banner3 .button3{
+margin-top: 75px;
+}

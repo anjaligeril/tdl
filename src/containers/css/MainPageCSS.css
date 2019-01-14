@@ -1,0 +1,68 @@
+.navbar{
+    background: rgba(255,255,255,0.4);
+    padding-top: 10px;
+    z-index: 600;
+    width:100%;
+    position: fixed !important;
+}
+
+.t{
+    color: #272262;
+    font-size: 30px;
+}
+
+.dl{
+    color: #f05833;
+    font-size: 30px;
+}
+
+
+
+.nav li a,nav li button{
+    color:#272262;
+    font-size: 18px;
+    font-family: "Playfair Display", Georgia, serif;
+    font-weight: 500;
+}
+.nav li button{
+    margin-top: 5px;
+    background-color: #f05833;
+    color:#272262;
+    font-size: 18px;
+    font-weight: 500;
+}
+.navbar-header a {
+    color:#272262;
+    font-weight: bold;
+    font-family: "Playfair Display", Georgia, serif;
+    text-shadow: 1px 1px #282c34 ;
+
+}
+.navbar.scrolled {
+    background-color: antiquewhite !important;
+    transition: background-color 200ms linear !important; ;
+}
+.navbar.scrolled li a {
+    color:#272262;
+}
+
+.navbar.scrolled li button {
+    color:#272262;
+}
+
+
+@media only screen and (max-width : 768px) {
+    .navbar-collapse {
+        background:rgba(240,88,51,0.9) ;
+    }
+    .nav li button{
+        background-color: antiquewhite;
+    }
+
+}
+
+.glyphicon{
+    color:#272262;
+    font-size: 25px;
+}
+

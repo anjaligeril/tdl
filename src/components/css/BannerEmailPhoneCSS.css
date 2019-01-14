@@ -1,0 +1,23 @@
+.banner1{
+    background-color: #272262;
+    color:white;
+    height: 160px;
+    overflow: hidden;
+   }
+
+.content{
+    font-family: "Playfair Display", Georgia, serif;
+}
+
+.buttons .buttonemail{
+    font-size:25px;
+    margin-top: 10px;
+    font-family: "Playfair Display", Georgia, serif;
+    font-weight: 500;
+    padding-top: 0;
+}
+
+.icon1{
+    font-size: 30px;
+    margin-right: 20px;
+}

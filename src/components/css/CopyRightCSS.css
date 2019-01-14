@@ -1,0 +1,12 @@
+.bannerCopyRight{
+    background-color: #f05833;
+    color: #272262;
+    text-align: center;
+
+}
+
+.bannerCopyRight h5{
+    font-size: 15px !important;
+    font-family: "Playfair Display", Georgia, serif;
+    font-weight: bold !important;
+}

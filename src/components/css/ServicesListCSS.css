@@ -1,0 +1,47 @@
+.serviceSliderHead h2{
+    font-family: "Playfair Display", Georgia, serif;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-weight: 600 !important;
+font-size: 30px;
+    color: #272262;
+  }
+
+.serviceSlider{
+    margin: 50px;
+
+}
+.panel{
+    height:300px;
+}
+
+.sliderImage{
+    height:220px !important ;
+    width:330px !important;
+}
+
+.slider a{
+    text-decoration: none !important;
+}
+
+.panel .panel-heading{
+    font-size:20px;
+    font-family: "Playfair Display", Georgia, serif;
+
+}
+
+.icon2{
+    font-size: 50px;
+    color: #f05833;
+    display:block;
+}
+
+.servicesListMobile{
+    font-family: "Playfair Display", Georgia, serif;
+}
+
+.sec{
+    padding: 40px;
+}
+
+

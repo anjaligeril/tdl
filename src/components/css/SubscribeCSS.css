@@ -1,0 +1,37 @@
+.subscribe{
+    height: 500px;
+    background-image: url("../images/img13.jpg");
+    background-size: cover;
+    font-family: "Playfair Display", Georgia, serif;
+    background-attachment: fixed;
+}
+
+ .subscribeBox{
+    background-color: rgba(250,235,215,0.6);
+   margin-top: 150px;
+     margin-left: 300px;
+    color:black;
+     padding-bottom: 40px;
+     padding-top: 40px;
+}
+.subscribeBox .button4{
+    margin-top: 20px;
+    margin-left: 230px;
+}
+
+@media only screen and (max-width : 768px) {
+    .subscribeBox{
+        background-color: rgba(250,235,215,0.6);
+        margin-left: 0;
+        margin-right: 0;
+    margin-top:120px;
+        color:black;
+    }
+    .subscribeBox h2{
+        font-size: 20px;
+    }
+    .subscribeBox button{
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+}
